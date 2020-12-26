@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/riswanardiansah/Simple-ChatBot/model.tflearn"
+all_model_checkpoint_paths: "/Users/riswanardiansah/Simple-ChatBot/model.tflearn"
